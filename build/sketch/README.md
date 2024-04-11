@@ -1,3 +1,4 @@
+#line 1 "C:\\Users\\lgiuliano\\OneDrive\\Lenguajes\\C\\extra\\mef\\README.md"
 # MEF Anti-Rebote para pulsadores
 
 Implementar una **MEF anti-rebote** que permita leer el estado del pulsador con un Arduino y generar acciones o eventos ante un flanco descendente o ascendente, de acuerdo con el siguiente diagrama:
@@ -30,7 +31,3 @@ BUTTON_DOWN,
 BUTTON_RAISING,
 } debounceState_t;
 ```
-
-
-
-***Código hecho por: Leonel Giuliano***
